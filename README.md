@@ -2,10 +2,10 @@
 
 ## Description
 
-The objective of this project was to create the back end of an e-commerce site using sequelize to interact with a MySQL database. The front-end was not developed so Insomnia is used to show the GET, PUT, POST, and DELETE routes functioning. 
+The objective of this project was to create the back end of an e-commerce site using sequelize to interact with a MySQL database. The database contains information about the products available and how they are organized. The front-end was not built out so Insomnia was used to show the GET, PUT, POST, and DELETE routes functioning. 
 
 
-![video of program]()
+![video of program](https://github.com/nzerr57/e-commerce-back-end/blob/2d573b6d1406cf42ebe7d623ee64ba68f08f2016/demo-video.gif)
 
 ## License
 
